@@ -11,6 +11,8 @@ class MyImages {
   ];
 
   //ICONS
+  //ICONS
+
   static const String headMenuIcon = "assets/icon/head_menu.svg";
   static const String review = "assets/img/reveiw.png";
 
